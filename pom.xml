@@ -24,7 +24,7 @@
         <javax.validation.version>1.0.0.GA</javax.validation.version>
         <joda.version>2.1</joda.version>
         <google-guava.version>13.0.1</google-guava.version>
-        <jackson.version>2.1.1</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
         <junit.version>4.10</junit.version>
         <mockito.version>1.9.5</mockito.version>
         <slf4j.version>1.7.2</slf4j.version>
